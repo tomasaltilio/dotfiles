@@ -69,3 +69,4 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export TF_CPP_MIN_LOG_LEVEL="3"
 export GOOGLE_APPLICATION_CREDENTIALS=/home/tomas/code/tomasaltilio/wagon-bootcamp-306514-9222f4d220ca.json
 export PYTHONPATH='/home/tomas/code/lewagon/olist/'
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
